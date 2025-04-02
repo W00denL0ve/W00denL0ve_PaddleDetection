@@ -1,0 +1,13 @@
+# 忽略文件夹
+Py_files/
+
+# 忽略Python缓存文件
+__pycache__/
+*.pyc
+
+# 忽略VS Code配置文件
+.vscode/
+
+# 忽略环境文件和虚拟环境
+.env
+venv/

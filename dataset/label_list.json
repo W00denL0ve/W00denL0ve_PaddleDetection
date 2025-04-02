@@ -1,0 +1,20 @@
+{
+    "licenses": [],
+    "info": {
+        "year": 2024,
+        "version": "1.0",
+        "description": "Pingpong Dataset",
+        "contributor": "",
+        "url": "",
+        "date_created": "2024-01-01"
+    },
+    "categories": [
+        {
+            "id": 1,
+            "name": "pinpang",
+            "supercategory": "ball"
+        }
+    ],
+    "images": [],
+    "annotations": []
+}
